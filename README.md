@@ -23,5 +23,5 @@ For creating Laravel Project, you need to have following things.
     10. php artisan db:seed --class=UsersTablesSeeder
 
 How to use
-username: user
-password: 123
+    1. username: user
+    2. password: 123
